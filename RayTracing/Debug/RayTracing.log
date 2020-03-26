@@ -1,0 +1,16 @@
+﻿  RayTrace.cpp
+D:\DataFiles\RayTracing\geometry\Rect.h(7,52): warning C4244: '引数': 'float' から 'T' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=int
+          ]
+D:\DataFiles\RayTracing\geometry\Rect.h(7,49): warning C4244: '引数': 'float' から 'T' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=int
+          ]
+D:\DataFiles\RayTracing\geometry\Rect.h(13,30): warning C4244: 'return': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\DataFiles\RayTracing\geometry\Rect.h(14,29): warning C4244: 'return': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\DataFiles\RayTracing\geometry\Rect.h(15,31): warning C4244: 'return': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\DataFiles\RayTracing\geometry\Rect.h(16,32): warning C4244: 'return': 'int' から 'float' への変換です。データが失われる可能性があります。
+  RayTracing.vcxproj -> D:\DataFiles\RayTracing\Debug\RayTracing.exe
